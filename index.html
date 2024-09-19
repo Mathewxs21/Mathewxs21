@@ -1,0 +1,10 @@
+{% extends 'modelo.html' %}
+
+{% block title %} Inicial {% endblock %}
+
+{% block conteudo %} 
+
+<a href="{{url_for('login')}}">Login</a>
+<a href="{{url_for('registrar')}}">Cadastrar-se</a>
+
+{% endblock %}
