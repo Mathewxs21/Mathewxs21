@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ IT student since 2022 (this will be the last year)<br>📚 I'm currently learning python, css, html, database and others<br>🎯 Goals: Finish IFRN<br>🎲 Fun fact: Even though I don't really like the materials, I try my best to understand them.</p>
+<p align="left">✨ Student since 2022 (this will be the last year)<br>📚 I'm currently learning python, css, html, database and others<br>🎯 Goals: Finish IFRN<br>🎲 Fun fact: Even though I don't really like the materials, I try my best to understand them.</p>
 
 ###
 
