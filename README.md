@@ -41,7 +41,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathewxs21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathewxs21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://media.tenor.com/uxC9pNjuaAIAAAAM/ariana-grande-hair-flip.gif"  />
+  
 </div>
 
 ###
