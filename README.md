@@ -1,43 +1,54 @@
-<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
+<h2 align="left">Hi there, welcome to my Github profile</h2>
 
 ###
 
-<p align="left">My name is Mateus Lucena and I'm a student, from Brazil</p>
+<p align="left">- My name is Mateus Lucena, I'm 18 years old. Welcome to my profile!</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">✨ Student since 2022 (this will be the last year)<br>📚 I'm currently learning python, css, html, database and others<br>🎯 Goals: Finish IFRN<br>🎲 Fun fact: Even though I don't really like the materials, I try my best to understand them.</p>
+<p align="left">- Python Developer<br>- Currently learning python, javascript,  css, html, database and others<br>- Student at IFRN - CAMPUS CAICÓ</p>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/uxC9pNjuaAIAAAAM/ariana-grande-hair-flip.gif"  />
+<h2 align="left">My Techs</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
 </div>
+
+###
+
+<h2 align="left">My Stats</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathewxs21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathewxs21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="125" alt="languages graph"  />
 </div>
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/i16jjhb0ghtbme48qcwcgg0b3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=i16jjhb0ghtbme48qcwcgg0b3&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
